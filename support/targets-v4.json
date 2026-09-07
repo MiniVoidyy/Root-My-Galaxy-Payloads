@@ -1,0 +1,2552 @@
+﻿{
+    "schemaVersion":  4,
+    "payloads":  [
+                     {
+                         "payloadId":  "galaxy-s25-series-2026-06-07",
+                         "displayName":  "Galaxy S25 series | Kernel 6.6.98",
+                         "models":  [
+                                        "SM-S9310",
+                                        "SM-S931B",
+                                        "SM-S931N",
+                                        "SM-S931Q",
+                                        "SM-S931U",
+                                        "SM-S931U1",
+                                        "SM-S931W",
+                                        "SM-S931Z",
+                                        "SC-51F",
+                                        "SCG31",
+                                        "SM-S936B",
+                                        "SM-S936N",
+                                        "SM-S936U",
+                                        "SM-S936U1",
+                                        "SM-S936W",
+                                        "SM-S937B",
+                                        "SM-S937N",
+                                        "SM-S937U",
+                                        "SM-S937U1",
+                                        "SM-S937W",
+                                        "SM-S9380",
+                                        "SM-S938B",
+                                        "SM-S938N",
+                                        "SM-S938Q",
+                                        "SM-S938U",
+                                        "SM-S938U1",
+                                        "SM-S938W",
+                                        "SM-S938Z",
+                                        "SC-52F",
+                                        "SCG32"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.6.98"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/pa3q-S938NKSUACZF1/cve-2026-43499-app.so",
+                                         "size":  104128,
+                                         "sha256":  "6311e5ae1a381fd96b8a989e82525521ed9b00cff4e0d3020d3904eb5716587c"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-s25u-kdp",
+                                          "size":  6407096,
+                                          "sha256":  "fa3edcc7d168637394877b30cb1f909d762dda788ec14051f4ae79edd6562d63"
+                                      }
+                     },
+                     {
+                         "payloadId":  "pa2q-S9360ZCSCCZG1",
+                         "displayName":  "Galaxy S25+ | Kernel 6.6.98",
+                         "models":  [
+                                        "SM-S9360"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.6.98"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/pa2q-S9360ZCSCCZG1/cve-2026-43499-app.so",
+                                         "size":  125904,
+                                         "sha256":  "758dee1f3c1381d0125fa3576f0fd372ddb7a848e14f5a7d68bf11463a643a58"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-s25u-kdp",
+                                          "size":  6407096,
+                                          "sha256":  "fa3edcc7d168637394877b30cb1f909d762dda788ec14051f4ae79edd6562d63"
+                                      }
+                     },
+                     {
+                         "payloadId":  "psq-S9370ZCS9CZG1",
+                         "displayName":  "Galaxy S25 Edge | Kernel 6.6.98",
+                         "models":  [
+                                        "SM-S9370"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.6.98"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/psq-S9370ZCS9CZG1/cve-2026-43499-app.so",
+                                         "size":  125264,
+                                         "sha256":  "209d7feb91fc46bfec6f5ebec1f0caca47ee033c9d529e6eaf9c74bc840dd210"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-s25u-kdp",
+                                          "size":  6407096,
+                                          "sha256":  "fa3edcc7d168637394877b30cb1f909d762dda788ec14051f4ae79edd6562d63"
+                                      }
+                     },
+                     {
+                         "payloadId":  "q7q-F966USQU9BZDN",
+                         "displayName":  "Galaxy Z Fold 7 | Kernel 6.6.98",
+                         "models":  [
+                                        "SM-F966U",
+                                        "SM-F966U1"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.6.98"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/q7q-F966USQU9BZDN/cve-2026-43499-app.so",
+                                         "size":  111216,
+                                         "sha256":  "dcb20ca0186ab94e897440e478252361e6999fa20178b2c4e2fcefa6bea4d515"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-s25u-kdp",
+                                          "size":  6407096,
+                                          "sha256":  "fa3edcc7d168637394877b30cb1f909d762dda788ec14051f4ae79edd6562d63"
+                                      }
+                     },
+                     {
+                         "payloadId":  "q7q-F966USQSBBZG3",
+                         "displayName":  "Galaxy Z Fold 7 (SM-F966U BZG3) | Kernel 6.6.98",
+                         "models":  [
+                                        "SM-F966U"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.6.98"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/q7q-F966USQSBBZG3/cve-2026-43499-app.so",
+                                         "size":  126264,
+                                         "sha256":  "d809061172eb825a43571eaeb10d8a898d32db6f28a1f2fb90bae6b318a8068f"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-s25u-kdp",
+                                          "size":  6407096,
+                                          "sha256":  "fa3edcc7d168637394877b30cb1f909d762dda788ec14051f4ae79edd6562d63"
+                                      }
+                     },
+                     {
+                         "payloadId":  "q7q-F966BXXSBBZG3",
+                         "displayName":  "Galaxy Z Fold 7 (SM-F966B) | Kernel 6.6.98",
+                         "models":  [
+                                        "SM-F966B"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.6.98"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/q7q-F966BXXSBBZG3/cve-2026-43499-app.so",
+                                         "size":  125872,
+                                         "sha256":  "a342474dd5a3b137e645215e4cefb28f2c3ad09601d469a602b1af91b7e7b9a5"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-s25u-kdp",
+                                          "size":  6407096,
+                                          "sha256":  "fa3edcc7d168637394877b30cb1f909d762dda788ec14051f4ae79edd6562d63"
+                                      }
+                     },
+                     {
+                         "payloadId":  "e3q-S928USQS6DZF2",
+                         "displayName":  "Galaxy S24 Ultra | Kernel 6.1.145",
+                         "models":  [
+                                        "SM-S928U1",
+                                        "SM-S928W"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.145"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/e3q-S928USQS6DZF2/cve-2026-43499-app.so",
+                                         "size":  104128,
+                                         "sha256":  "b2931d8980f969b5a0cb05bd67f6804f445ad4a4c867a7b4c4081c2ffac5b36a"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-e3q-S928USQS6DZF2-kdp",
+                                          "size":  4998352,
+                                          "sha256":  "10c1bf87f8e475e6ab8c5d1c5a085aa1544ee091f4451ad65141ea75261ab610"
+                                      }
+                     },
+                     {
+                         "payloadId":  "e3q-S928BXXS6DZF2",
+                         "displayName":  "Galaxy S24 Ultra (International) | Kernel 6.1.145",
+                         "models":  [
+                                        "SM-S928B"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.145"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/e3q-S928BXXS6DZF2/cve-2026-43499-app.so",
+                                         "size":  104128,
+                                         "sha256":  "a49b378d654c7e637697a701c3c4c5fd02d22b9b30a7069c03e64ec5844af206"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-e3q-S928BXXS6DZF2-kdp",
+                                          "size":  4748232,
+                                          "sha256":  "43f451313dc111429187f8f93e76c57c42976323782aac936c1c09aa309b76b3"
+                                      }
+                     },
+                     {
+                         "payloadId":  "e2s-S926BXXUEDZDR",
+                         "displayName":  "Galaxy S24+ | Kernel 6.1.157",
+                         "models":  [
+                                        "SM-S926B"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.157"
+                                            ],
+                         "requiresFreshP0Session":  true,
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/e2s-S926BXXUEDZDR/cve-2026-43499-app.so",
+                                         "size":  104128,
+                                         "sha256":  "b1fe6dcc2e4d5cbfc13679f2086835c0a2ab2be5624f122b23b0c30954670552"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-e2s-S926BXXUEDZDR-kdp",
+                                          "size":  4780056,
+                                          "sha256":  "dc3eb02640492a8d6f78f8515c6ae5c75ddbfa593f53cd0f3efdfc82a29c4219"
+                                      }
+                     },
+                     {
+                         "payloadId":  "e1s-S921BXXSFDZE1",
+                         "displayName":  "Galaxy S24 | Kernel 6.1.157",
+                         "models":  [
+                                        "SM-S921B"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.157"
+                                            ],
+                         "requiresFreshP0Session":  true,
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/e1s-S921BXXSFDZE1/cve-2026-43499-app.so",
+                                         "size":  104128,
+                                         "sha256":  "cde4e9ca1f235f11940513c897de23c97f89f70c7ef0104d071ff1acbbcf1776"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-e1s-S921BXXSFDZE1-kdp",
+                                          "size":  4920520,
+                                          "sha256":  "614fc59233d81d3b038c5450501c5a89775bef1305295e8151b605b0bf298ba0"
+                                      }
+                     },
+                     {
+                         "payloadId":  "essi-A566EXXSCCZG6",
+                         "displayName":  "Galaxy A56 5G | Kernel 6.6.102",
+                         "models":  [
+                                        "SM-A5660",
+                                        "SM-A566B",
+                                        "SM-A566E",
+                                        "SM-A566S",
+                                        "SM-A566U1",
+                                        "SM-A566W"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.6.102"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/essi-A566EXXSCCZG6/cve-2026-43499-app.so",
+                                         "size":  104128,
+                                         "sha256":  "f28050c5f291386ec539aac668b218d88ab8df43ec159978b2a7b71a329b0bd5"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-A566EXXSCCZG6-kdp",
+                                          "size":  4765336,
+                                          "sha256":  "9fd53d55ec85ec600b88cc0f66af1a094381feb6bea64b5422b3aa706aab08c8"
+                                      }
+                     },
+                     {
+                         "payloadId":  "a36xq-A366WVLS3AYG1",
+                         "displayName":  "Galaxy A36 5G | Kernel 6.6.46",
+                         "models":  [
+                                        "SM-A366W"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.6.46"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/a36xq-A366WVLS3AYG1/cve-2026-43499-app.so",
+                                         "size":  128688,
+                                         "sha256":  "481e3425d5038b7b51820d626783d5b1afb50c3358075582f14c94e5d7b52eec"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-A366WVLS3AYG1-kdp",
+                                          "size":  4889120,
+                                          "sha256":  "2288f5f061f9dc9b27f6a3409ab68592c2050f78306dad09348f2363d5380b42"
+                                      }
+                     },
+                     {
+                         "payloadId":  "dm3q-S918BXXSAFZF5",
+                         "displayName":  "Galaxy S23 Ultra SM-S918B | Kernel 5.15.189 (S918BXXSAFZF5)",
+                         "models":  [
+                                        "SM-S918B"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.189"
+                                            ],
+                         "requiresFreshP0Session":  true,
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/dm3q-S918BXXSAFZF5/cve-2026-43499-app.so",
+                                         "size":  133344,
+                                         "sha256":  "3bf7edcbab642c346ac0cb5564ef7406b835eb555b1163ebd498a9860dc6c83f"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-dm3q-S918BXXSAFZF5-kdp",
+                                          "size":  4879560,
+                                          "sha256":  "5da5818d36da2d589496f91016078a43f50489e5c98b319db4eaa5ee475b86bd"
+                                      }
+                     },
+                     {
+                         "payloadId":  "a53x-A536EXXSNGZG3",
+                         "displayName":  "Galaxy A53 5G | Kernel 5.10.237",
+                         "models":  [
+                                        "SM-A536E"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.237"
+                                            ],
+                         "requiresFreshP0Session":  true,
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/a53x-A536EXXSNGZG3/cve-2026-43499-app.so",
+                                         "size":  104128,
+                                         "sha256":  "fb9b2e08adb8046f3ae0566cc0b10ae55c5bb72b0d04396a935141e242060fdf"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-A536EXXSNGZG3-kdp",
+                                          "size":  4870752,
+                                          "sha256":  "c35130bf54f7b8e3c31eee2349c7e053d1e2878b4d47b21090012523ff02e3ef"
+                                      }
+                     },
+                     {
+                         "payloadId":  "dm3q-S9180ZHS8FZF5",
+                         "displayName":  "Galaxy S23 Ultra | Kernel 5.15.189",
+                         "models":  [
+                                        "SM-S9180",
+                                        "SM-S918N",
+                                        "SM-S918Q",
+                                        "SM-S918U",
+                                        "SM-S918W",
+                                        "SM-S918U1"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.189"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/dm3q-S9180ZHS8FZF5/cve-2026-43499-app.so",
+                                         "size":  137728,
+                                         "sha256":  "55586f8e13e2ef57b33a94a8d36f33d6f01f2881310b1fbe5e764bb06ba78bb2"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-dm3q-S9180ZHS8FZF5-kdp",
+                                          "size":  4556352,
+                                          "sha256":  "077797b6cd07621b4352a55bbcfb03cb86a33f0fb044aeb4706445a21215eb57"
+                                      }
+                     },
+                     {
+                         "payloadId":  "e1s-S921NKSSFDZF3",
+                         "displayName":  "Galaxy S24 | Kernel 6.1.157",
+                         "models":  [
+                                        "SM-S921N"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.157"
+                                            ],
+                         "requiresFreshP0Session":  true,
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/e1s-S921NKSSFDZF3/cve-2026-43499-app.so",
+                                         "size":  104128,
+                                         "sha256":  "1256ab0c500cb44ed46bf79dcf7331bf8e23fe1b047dd980e6048a3ae01a4245"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-e1s-S921NKSSFDZF3-kdp",
+                                          "size":  4758872,
+                                          "sha256":  "063586e2625af622bf7de847cb6e1cd492ab78e84f655340d356e8db4798121a"
+                                      }
+                     },
+                     {
+                         "payloadId":  "dm1q-S911U1UES6DYI3",
+                         "displayName":  "Galaxy S23 (base) | Kernel 5.15.153 | tracefs/MCAST route",
+                         "models":  [
+                                        "SM-S911U1"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.153"
+                                            ],
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/dm1q-S911U1UES6DYI3/cve-2026-43499-app.so",
+                                         "size":  130168,
+                                         "sha256":  "cc103692427c0ce7fb2a637ad6505ef1739c7036132b221cecf8d1b9a2328dca"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-dm1q-S911U1UES6DYI3-kdp",
+                                          "size":  4758792,
+                                          "sha256":  "9f1ea78f0a00868f09a00544c68d93fda21581cb3962fa49f9ded8031c9e809a"
+                                      }
+                     },
+                     {
+                         "payloadId":  "r12s-S721BXXSCDZF3",
+                         "displayName":  "Galaxy S24 FE | Kernel 6.1.157",
+                         "models":  [
+                                        "SM-S721B"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.157"
+                                            ],
+                         "requiresFreshP0Session":  true,
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/r12s-S721BXXSCDZF3/cve-2026-43499-app.so",
+                                         "size":  104128,
+                                         "sha256":  "e493e64f9ebc8c64297a0cf1be3c6b2b82a3d39713d14049b5719b7a8d18111d"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-r12s-S721BXXSCDZF3-kdp",
+                                          "size":  6419768,
+                                          "sha256":  "f37971d1673609b44c59de1240b59a72f3ba6cbe32e9b0873c8398a945a9e97b"
+                                      }
+                     },
+                     {
+                         "payloadId":  "gts9-X710XXS6EZF1",
+                         "displayName":  "Galaxy Tab S9 SM-X710 | Kernel 5.15.189 (X710XXS6EZF1)",
+                         "models":  [
+                                        "SM-X710"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.189"
+                                            ],
+                         "requiresFreshP0Session":  true,
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/gts9-X710XXS6EZF1/cve-2026-43499-app.so",
+                                         "size":  132688,
+                                         "sha256":  "caad8a8e65219c16d25af2091625c20fb96e721a39cda04f4f92c87f23bf9543"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-gts9-X710XXS6EZF1-kdp",
+                                          "size":  4783256,
+                                          "sha256":  "641e770ca1b0eb6a2e7bca837e65ed7db5483a9b9b4c68c3f1410dac20fc4dd8"
+                                      }
+                     },
+                     {
+                         "payloadId":  "e3q-S9280ZCS6DZF2",
+                         "displayName":  "Galaxy S24 Ultra China | Kernel 6.1.145 (S9280ZCS6DZF2)",
+                         "models":  [
+                                        "SM-S9280"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.145"
+                                            ],
+                         "requiresFreshP0Session":  true,
+                         "status":  "stable",
+                         "exploit":  {
+                                         "url":  "artifacts/e3q-S9280ZCS6DZF2/cve-2026-43499-app.so",
+                                         "size":  104128,
+                                         "sha256":  "e9baa068843b372cf5d1a7131902f58af25931327957df7b39df3b655e89c9bc"
+                                     },
+                         "kernelsu":  {
+                                          "url":  "kernelsu/ksud-e3q-S9280ZCS6DZF2-kdp",
+                                          "size":  4879856,
+                                          "sha256":  "1b92611de62035263f129636270deb9002de42e1d2329460342856243975015b"
+                                      }
+                     },
+                     {
+                         "payloadId":  "watch7-wearos5",
+                         "displayName":  "Galaxy Watch 7 | Wear OS 5 / One UI Watch 6",
+                         "models":  [
+                                        "SM-L300",
+                                        "SM-L305U",
+                                        "SM-L305F",
+                                        "SM-L310",
+                                        "SM-L315U",
+                                        "SM-L315F"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.62"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "watch7-wearos6",
+                         "displayName":  "Galaxy Watch 7 | Wear OS 6 / One UI 8 Watch",
+                         "models":  [
+                                        "SM-L300",
+                                        "SM-L305U",
+                                        "SM-L305F",
+                                        "SM-L310",
+                                        "SM-L315U",
+                                        "SM-L315F"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.68"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "watch7-wearos7",
+                         "displayName":  "Galaxy Watch 7 | Wear OS 7 / One UI 9 Watch (2026)",
+                         "models":  [
+                                        "SM-L300",
+                                        "SM-L305U",
+                                        "SM-L305F",
+                                        "SM-L310",
+                                        "SM-L315U",
+                                        "SM-L315F"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.74"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "watchu-wearos5",
+                         "displayName":  "Galaxy Watch Ultra | Wear OS 5 / One UI Watch 6",
+                         "models":  [
+                                        "SM-L700",
+                                        "SM-L705F",
+                                        "SM-L705U",
+                                        "SM-L705N"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.62"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "watchu-wearos6",
+                         "displayName":  "Galaxy Watch Ultra | Wear OS 6 / One UI 8 Watch",
+                         "models":  [
+                                        "SM-L700",
+                                        "SM-L705F",
+                                        "SM-L705U",
+                                        "SM-L705N"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.68"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "watch6-oneuiwatch5",
+                         "displayName":  "Galaxy Watch 6 / 6 Classic | Wear OS 4 / One UI Watch 5",
+                         "models":  [
+                                        "SM-R950",
+                                        "SM-R955",
+                                        "SM-R960",
+                                        "SM-R965"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.40"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "watch5-wearos35",
+                         "displayName":  "Galaxy Watch 5 / 5 Pro | Wear OS 3.5",
+                         "models":  [
+                                        "SM-R910",
+                                        "SM-R915",
+                                        "SM-R920",
+                                        "SM-R925"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.226"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "watch4-wearos3",
+                         "displayName":  "Galaxy Watch 4 / 4 Classic | Wear OS 3",
+                         "models":  [
+                                        "SM-R860",
+                                        "SM-R865",
+                                        "SM-R880",
+                                        "SM-R885"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.170",
+                                                "5.10.226"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s22-oneui-4.1",
+                         "displayName":  "Galaxy S22 family | One UI 4.1 (Android 12)",
+                         "models":  [
+                                        "SM-S9010",
+                                        "SM-S901B",
+                                        "SM-S901E",
+                                        "SM-S901N",
+                                        "SM-S901U",
+                                        "SM-S901U1",
+                                        "SM-S901W",
+                                        "SM-S901Z",
+                                        "SC-53A",
+                                        "SCG11",
+                                        "SM-S9060",
+                                        "SM-S906B",
+                                        "SM-S906E",
+                                        "SM-S906N",
+                                        "SM-S906U",
+                                        "SM-S906U1",
+                                        "SM-S906W",
+                                        "SM-S906Z",
+                                        "SC-53B",
+                                        "SCG12",
+                                        "SM-S9080",
+                                        "SM-S908B",
+                                        "SM-S908E",
+                                        "SM-S908N",
+                                        "SM-S908Q",
+                                        "SM-S908U",
+                                        "SM-S908U1",
+                                        "SM-S908W",
+                                        "SM-S908Z",
+                                        "SC-53C",
+                                        "SCG13"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.43",
+                                                "5.10.66",
+                                                "5.10.81"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s22-oneui-5.0",
+                         "displayName":  "Galaxy S22 family | One UI 5.0 (Android 13)",
+                         "models":  [
+                                        "SM-S9010",
+                                        "SM-S901B",
+                                        "SM-S901E",
+                                        "SM-S901N",
+                                        "SM-S901U",
+                                        "SM-S901U1",
+                                        "SM-S901W",
+                                        "SM-S901Z",
+                                        "SC-53A",
+                                        "SCG11",
+                                        "SM-S9060",
+                                        "SM-S906B",
+                                        "SM-S906E",
+                                        "SM-S906N",
+                                        "SM-S906U",
+                                        "SM-S906U1",
+                                        "SM-S906W",
+                                        "SM-S906Z",
+                                        "SC-53B",
+                                        "SCG12",
+                                        "SM-S9080",
+                                        "SM-S908B",
+                                        "SM-S908E",
+                                        "SM-S908N",
+                                        "SM-S908Q",
+                                        "SM-S908U",
+                                        "SM-S908U1",
+                                        "SM-S908W",
+                                        "SM-S908Z",
+                                        "SC-53C",
+                                        "SCG13"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.110"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s22-oneui-5.1",
+                         "displayName":  "Galaxy S22 family | One UI 5.1 (Android 13)",
+                         "models":  [
+                                        "SM-S9010",
+                                        "SM-S901B",
+                                        "SM-S901E",
+                                        "SM-S901N",
+                                        "SM-S901U",
+                                        "SM-S901U1",
+                                        "SM-S901W",
+                                        "SM-S901Z",
+                                        "SC-53A",
+                                        "SCG11",
+                                        "SM-S9060",
+                                        "SM-S906B",
+                                        "SM-S906E",
+                                        "SM-S906N",
+                                        "SM-S906U",
+                                        "SM-S906U1",
+                                        "SM-S906W",
+                                        "SM-S906Z",
+                                        "SC-53B",
+                                        "SCG12",
+                                        "SM-S9080",
+                                        "SM-S908B",
+                                        "SM-S908E",
+                                        "SM-S908N",
+                                        "SM-S908Q",
+                                        "SM-S908U",
+                                        "SM-S908U1",
+                                        "SM-S908W",
+                                        "SM-S908Z",
+                                        "SC-53C",
+                                        "SCG13"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.125",
+                                                "5.10.142"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s22-oneui-6.0",
+                         "displayName":  "Galaxy S22 family | One UI 6.0 (Android 14)",
+                         "models":  [
+                                        "SM-S9010",
+                                        "SM-S901B",
+                                        "SM-S901E",
+                                        "SM-S901N",
+                                        "SM-S901U",
+                                        "SM-S901U1",
+                                        "SM-S901W",
+                                        "SM-S901Z",
+                                        "SC-53A",
+                                        "SCG11",
+                                        "SM-S9060",
+                                        "SM-S906B",
+                                        "SM-S906E",
+                                        "SM-S906N",
+                                        "SM-S906U",
+                                        "SM-S906U1",
+                                        "SM-S906W",
+                                        "SM-S906Z",
+                                        "SC-53B",
+                                        "SCG12",
+                                        "SM-S9080",
+                                        "SM-S908B",
+                                        "SM-S908E",
+                                        "SM-S908N",
+                                        "SM-S908Q",
+                                        "SM-S908U",
+                                        "SM-S908U1",
+                                        "SM-S908W",
+                                        "SM-S908Z",
+                                        "SC-53C",
+                                        "SCG13"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.198"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s22-oneui-6.1",
+                         "displayName":  "Galaxy S22 family | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-S9010",
+                                        "SM-S901B",
+                                        "SM-S901E",
+                                        "SM-S901N",
+                                        "SM-S901U",
+                                        "SM-S901U1",
+                                        "SM-S901W",
+                                        "SM-S901Z",
+                                        "SC-53A",
+                                        "SCG11",
+                                        "SM-S9060",
+                                        "SM-S906B",
+                                        "SM-S906E",
+                                        "SM-S906N",
+                                        "SM-S906U",
+                                        "SM-S906U1",
+                                        "SM-S906W",
+                                        "SM-S906Z",
+                                        "SC-53B",
+                                        "SCG12",
+                                        "SM-S9080",
+                                        "SM-S908B",
+                                        "SM-S908E",
+                                        "SM-S908N",
+                                        "SM-S908Q",
+                                        "SM-S908U",
+                                        "SM-S908U1",
+                                        "SM-S908W",
+                                        "SM-S908Z",
+                                        "SC-53C",
+                                        "SCG13"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.208",
+                                                "5.10.212",
+                                                "5.10.221"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s22-a16-2026",
+                         "displayName":  "Galaxy S22 family | One UI 7/8 update line (Android 16, 2026)",
+                         "models":  [
+                                        "SM-S9010",
+                                        "SM-S901B",
+                                        "SM-S901E",
+                                        "SM-S901N",
+                                        "SM-S901U",
+                                        "SM-S901U1",
+                                        "SM-S901W",
+                                        "SM-S901Z",
+                                        "SC-53A",
+                                        "SCG11",
+                                        "SM-S9060",
+                                        "SM-S906B",
+                                        "SM-S906E",
+                                        "SM-S906N",
+                                        "SM-S906U",
+                                        "SM-S906U1",
+                                        "SM-S906W",
+                                        "SM-S906Z",
+                                        "SC-53B",
+                                        "SCG12",
+                                        "SM-S9080",
+                                        "SM-S908B",
+                                        "SM-S908E",
+                                        "SM-S908N",
+                                        "SM-S908Q",
+                                        "SM-S908U",
+                                        "SM-S908U1",
+                                        "SM-S908W",
+                                        "SM-S908Z",
+                                        "SC-53C",
+                                        "SCG13"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.240",
+                                                "5.10.246",
+                                                "5.10.252"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s21-oneui-3.1",
+                         "displayName":  "Galaxy S21 family | One UI 3.1 (Android 11)",
+                         "models":  [
+                                        "SM-G9910",
+                                        "SM-G991B",
+                                        "SM-G991E",
+                                        "SM-G991N",
+                                        "SM-G991U",
+                                        "SM-G991U1",
+                                        "SM-G991W",
+                                        "SC-52A",
+                                        "SCG07",
+                                        "SM-G9960",
+                                        "SM-G996B",
+                                        "SM-G996E",
+                                        "SM-G996N",
+                                        "SM-G996U",
+                                        "SM-G996U1",
+                                        "SM-G996W",
+                                        "SC-52B",
+                                        "SCG08",
+                                        "SM-G9980",
+                                        "SM-G998B",
+                                        "SM-G998E",
+                                        "SM-G998N",
+                                        "SM-G998U",
+                                        "SM-G998U1",
+                                        "SM-G998W",
+                                        "SC-52C",
+                                        "SCG09"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.43",
+                                                "5.10.59"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s21-oneui-4.1",
+                         "displayName":  "Galaxy S21 family | One UI 4.x (Android 12)",
+                         "models":  [
+                                        "SM-G9910",
+                                        "SM-G991B",
+                                        "SM-G991E",
+                                        "SM-G991N",
+                                        "SM-G991U",
+                                        "SM-G991U1",
+                                        "SM-G991W",
+                                        "SC-52A",
+                                        "SCG07",
+                                        "SM-G9960",
+                                        "SM-G996B",
+                                        "SM-G996E",
+                                        "SM-G996N",
+                                        "SM-G996U",
+                                        "SM-G996U1",
+                                        "SM-G996W",
+                                        "SC-52B",
+                                        "SCG08",
+                                        "SM-G9980",
+                                        "SM-G998B",
+                                        "SM-G998E",
+                                        "SM-G998N",
+                                        "SM-G998U",
+                                        "SM-G998U1",
+                                        "SM-G998W",
+                                        "SC-52C",
+                                        "SCG09"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.66",
+                                                "5.10.81",
+                                                "5.10.110"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s21-oneui-5.1",
+                         "displayName":  "Galaxy S21 family | One UI 5.x (Android 13)",
+                         "models":  [
+                                        "SM-G9910",
+                                        "SM-G991B",
+                                        "SM-G991E",
+                                        "SM-G991N",
+                                        "SM-G991U",
+                                        "SM-G991U1",
+                                        "SM-G991W",
+                                        "SC-52A",
+                                        "SCG07",
+                                        "SM-G9960",
+                                        "SM-G996B",
+                                        "SM-G996E",
+                                        "SM-G996N",
+                                        "SM-G996U",
+                                        "SM-G996U1",
+                                        "SM-G996W",
+                                        "SC-52B",
+                                        "SCG08",
+                                        "SM-G9980",
+                                        "SM-G998B",
+                                        "SM-G998E",
+                                        "SM-G998N",
+                                        "SM-G998U",
+                                        "SM-G998U1",
+                                        "SM-G998W",
+                                        "SC-52C",
+                                        "SCG09"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.125",
+                                                "5.10.142"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s21-oneui-6.0",
+                         "displayName":  "Galaxy S21 family | One UI 6.0 (Android 14)",
+                         "models":  [
+                                        "SM-G9910",
+                                        "SM-G991B",
+                                        "SM-G991E",
+                                        "SM-G991N",
+                                        "SM-G991U",
+                                        "SM-G991U1",
+                                        "SM-G991W",
+                                        "SC-52A",
+                                        "SCG07",
+                                        "SM-G9960",
+                                        "SM-G996B",
+                                        "SM-G996E",
+                                        "SM-G996N",
+                                        "SM-G996U",
+                                        "SM-G996U1",
+                                        "SM-G996W",
+                                        "SC-52B",
+                                        "SCG08",
+                                        "SM-G9980",
+                                        "SM-G998B",
+                                        "SM-G998E",
+                                        "SM-G998N",
+                                        "SM-G998U",
+                                        "SM-G998U1",
+                                        "SM-G998W",
+                                        "SC-52C",
+                                        "SCG09"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.198"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s21-oneui-6.1",
+                         "displayName":  "Galaxy S21 family | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-G9910",
+                                        "SM-G991B",
+                                        "SM-G991E",
+                                        "SM-G991N",
+                                        "SM-G991U",
+                                        "SM-G991U1",
+                                        "SM-G991W",
+                                        "SC-52A",
+                                        "SCG07",
+                                        "SM-G9960",
+                                        "SM-G996B",
+                                        "SM-G996E",
+                                        "SM-G996N",
+                                        "SM-G996U",
+                                        "SM-G996U1",
+                                        "SM-G996W",
+                                        "SC-52B",
+                                        "SCG08",
+                                        "SM-G9980",
+                                        "SM-G998B",
+                                        "SM-G998E",
+                                        "SM-G998N",
+                                        "SM-G998U",
+                                        "SM-G998U1",
+                                        "SM-G998W",
+                                        "SC-52C",
+                                        "SCG09"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.208",
+                                                "5.10.212"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s21fe-5.10-oneui-4.1",
+                         "displayName":  "Galaxy S21 FE | One UI 4.1 (Android 12)",
+                         "models":  [
+                                        "SM-G990B",
+                                        "SM-G990B2",
+                                        "SM-G990E",
+                                        "SM-G990N",
+                                        "SM-G990U",
+                                        "SM-G990U1",
+                                        "SM-G990W2",
+                                        "SM-G9900"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.66",
+                                                "5.10.81"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s21fe-5.10-oneui-5.1",
+                         "displayName":  "Galaxy S21 FE | One UI 5.x (Android 13)",
+                         "models":  [
+                                        "SM-G990B",
+                                        "SM-G990B2",
+                                        "SM-G990E",
+                                        "SM-G990N",
+                                        "SM-G990U",
+                                        "SM-G990U1",
+                                        "SM-G990W2",
+                                        "SM-G9900"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.125",
+                                                "5.10.142"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s21fe-5.10-oneui-6.0",
+                         "displayName":  "Galaxy S21 FE | One UI 6.0 (Android 14)",
+                         "models":  [
+                                        "SM-G990B",
+                                        "SM-G990B2",
+                                        "SM-G990E",
+                                        "SM-G990N",
+                                        "SM-G990U",
+                                        "SM-G990U1",
+                                        "SM-G990W2",
+                                        "SM-G9900"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.198"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s21fe-5.10-oneui-6.1",
+                         "displayName":  "Galaxy S21 FE | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-G990B",
+                                        "SM-G990B2",
+                                        "SM-G990E",
+                                        "SM-G990N",
+                                        "SM-G990U",
+                                        "SM-G990U1",
+                                        "SM-G990W2",
+                                        "SM-G9900"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.208",
+                                                "5.10.212"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s20-oneui-2.5",
+                         "displayName":  "Galaxy S20 family | One UI 2.5 (Android 10)",
+                         "models":  [
+                                        "SM-G980F",
+                                        "SM-G9810",
+                                        "SM-G981B",
+                                        "SM-G981N",
+                                        "SM-G981U",
+                                        "SM-G981U1",
+                                        "SM-G981W",
+                                        "SM-G981V",
+                                        "SC-51A",
+                                        "SCG01",
+                                        "SM-G985F",
+                                        "SM-G985N",
+                                        "SM-G9860",
+                                        "SM-G986B",
+                                        "SM-G986N",
+                                        "SM-G986U",
+                                        "SM-G986U1",
+                                        "SM-G986W",
+                                        "SC-51B",
+                                        "SCG02",
+                                        "SM-G9880",
+                                        "SM-G988B",
+                                        "SM-G988N",
+                                        "SM-G988U",
+                                        "SM-G988U1",
+                                        "SM-G988W",
+                                        "SC-51C",
+                                        "SCG03"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.4.40",
+                                                "5.4.59"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s20-oneui-3.1",
+                         "displayName":  "Galaxy S20 family | One UI 3.x (Android 11)",
+                         "models":  [
+                                        "SM-G980F",
+                                        "SM-G9810",
+                                        "SM-G981B",
+                                        "SM-G981N",
+                                        "SM-G981U",
+                                        "SM-G981U1",
+                                        "SM-G981W",
+                                        "SM-G981V",
+                                        "SC-51A",
+                                        "SCG01",
+                                        "SM-G985F",
+                                        "SM-G985N",
+                                        "SM-G9860",
+                                        "SM-G986B",
+                                        "SM-G986N",
+                                        "SM-G986U",
+                                        "SM-G986U1",
+                                        "SM-G986W",
+                                        "SC-51B",
+                                        "SCG02",
+                                        "SM-G9880",
+                                        "SM-G988B",
+                                        "SM-G988N",
+                                        "SM-G988U",
+                                        "SM-G988U1",
+                                        "SM-G988W",
+                                        "SC-51C",
+                                        "SCG03"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.4.86",
+                                                "5.4.98",
+                                                "5.4.113"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s20-oneui-4.1",
+                         "displayName":  "Galaxy S20 family | One UI 4.x (Android 12)",
+                         "models":  [
+                                        "SM-G980F",
+                                        "SM-G9810",
+                                        "SM-G981B",
+                                        "SM-G981N",
+                                        "SM-G981U",
+                                        "SM-G981U1",
+                                        "SM-G981W",
+                                        "SM-G981V",
+                                        "SC-51A",
+                                        "SCG01",
+                                        "SM-G985F",
+                                        "SM-G985N",
+                                        "SM-G9860",
+                                        "SM-G986B",
+                                        "SM-G986N",
+                                        "SM-G986U",
+                                        "SM-G986U1",
+                                        "SM-G986W",
+                                        "SC-51B",
+                                        "SCG02",
+                                        "SM-G9880",
+                                        "SM-G988B",
+                                        "SM-G988N",
+                                        "SM-G988U",
+                                        "SM-G988U1",
+                                        "SM-G988W",
+                                        "SC-51C",
+                                        "SCG03"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.4.158",
+                                                "5.4.170",
+                                                "5.4.180"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s20-oneui-5.1",
+                         "displayName":  "Galaxy S20 family | One UI 5.x (Android 13)",
+                         "models":  [
+                                        "SM-G980F",
+                                        "SM-G9810",
+                                        "SM-G981B",
+                                        "SM-G981N",
+                                        "SM-G981U",
+                                        "SM-G981U1",
+                                        "SM-G981W",
+                                        "SM-G981V",
+                                        "SC-51A",
+                                        "SCG01",
+                                        "SM-G985F",
+                                        "SM-G985N",
+                                        "SM-G9860",
+                                        "SM-G986B",
+                                        "SM-G986N",
+                                        "SM-G986U",
+                                        "SM-G986U1",
+                                        "SM-G986W",
+                                        "SC-51B",
+                                        "SCG02",
+                                        "SM-G9880",
+                                        "SM-G988B",
+                                        "SM-G988N",
+                                        "SM-G988U",
+                                        "SM-G988U1",
+                                        "SM-G988W",
+                                        "SC-51C",
+                                        "SCG03"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.4.198",
+                                                "5.4.210"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s20-oneui-6.0",
+                         "displayName":  "Galaxy S20 family | One UI 6.0 (Android 14)",
+                         "models":  [
+                                        "SM-G980F",
+                                        "SM-G9810",
+                                        "SM-G981B",
+                                        "SM-G981N",
+                                        "SM-G981U",
+                                        "SM-G981U1",
+                                        "SM-G981W",
+                                        "SM-G981V",
+                                        "SC-51A",
+                                        "SCG01",
+                                        "SM-G985F",
+                                        "SM-G985N",
+                                        "SM-G9860",
+                                        "SM-G986B",
+                                        "SM-G986N",
+                                        "SM-G986U",
+                                        "SM-G986U1",
+                                        "SM-G986W",
+                                        "SC-51B",
+                                        "SCG02",
+                                        "SM-G9880",
+                                        "SM-G988B",
+                                        "SM-G988N",
+                                        "SM-G988U",
+                                        "SM-G988U1",
+                                        "SM-G988W",
+                                        "SC-51C",
+                                        "SCG03"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.4.224",
+                                                "5.4.237"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "note20-5.10-oneui-3.1",
+                         "displayName":  "Galaxy Note20 family | One UI 3.x (Android 11)",
+                         "models":  [
+                                        "SM-N980F",
+                                        "SM-N981B",
+                                        "SM-N981N",
+                                        "SM-N981U",
+                                        "SM-N981U1",
+                                        "SM-N981W",
+                                        "SM-N9860",
+                                        "SM-N986B",
+                                        "SM-N986N",
+                                        "SM-N986U",
+                                        "SM-N986U1",
+                                        "SM-N986W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.4.86",
+                                                "5.4.98"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "note20-5.10-oneui-4.1",
+                         "displayName":  "Galaxy Note20 family | One UI 4.x (Android 12, kernel 5.10)",
+                         "models":  [
+                                        "SM-N980F",
+                                        "SM-N981B",
+                                        "SM-N981N",
+                                        "SM-N981U",
+                                        "SM-N981U1",
+                                        "SM-N981W",
+                                        "SM-N9860",
+                                        "SM-N986B",
+                                        "SM-N986N",
+                                        "SM-N986U",
+                                        "SM-N986U1",
+                                        "SM-N986W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.66",
+                                                "5.10.81",
+                                                "5.10.110"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "note20-5.10-oneui-5.1",
+                         "displayName":  "Galaxy Note20 family | One UI 5.x (Android 13, kernel 5.10)",
+                         "models":  [
+                                        "SM-N980F",
+                                        "SM-N981B",
+                                        "SM-N981N",
+                                        "SM-N981U",
+                                        "SM-N981U1",
+                                        "SM-N981W",
+                                        "SM-N9860",
+                                        "SM-N986B",
+                                        "SM-N986N",
+                                        "SM-N986U",
+                                        "SM-N986U1",
+                                        "SM-N986W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.125",
+                                                "5.10.142"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s20fe-5.10-oneui-3.1",
+                         "displayName":  "Galaxy S20 FE | One UI 3.x (Android 11)",
+                         "models":  [
+                                        "SM-G780F",
+                                        "SM-G7810",
+                                        "SM-G781B",
+                                        "SM-G781N",
+                                        "SM-G781U",
+                                        "SM-G781U1",
+                                        "SM-G781W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.4.86",
+                                                "5.4.98"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s20fe-5.10-oneui-4.1",
+                         "displayName":  "Galaxy S20 FE | One UI 4.x (Android 12, kernel 5.10)",
+                         "models":  [
+                                        "SM-G780F",
+                                        "SM-G7810",
+                                        "SM-G781B",
+                                        "SM-G781N",
+                                        "SM-G781U",
+                                        "SM-G781U1",
+                                        "SM-G781W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.66",
+                                                "5.10.81",
+                                                "5.10.110"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s20fe-5.10-oneui-5.1",
+                         "displayName":  "Galaxy S20 FE | One UI 5.x (Android 13, kernel 5.10)",
+                         "models":  [
+                                        "SM-G780F",
+                                        "SM-G7810",
+                                        "SM-G781B",
+                                        "SM-G781N",
+                                        "SM-G781U",
+                                        "SM-G781U1",
+                                        "SM-G781W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.125",
+                                                "5.10.142"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s20fe-5.10-oneui-6.1",
+                         "displayName":  "Galaxy S20 FE | One UI 6.x (Android 14, kernel 5.10)",
+                         "models":  [
+                                        "SM-G780F",
+                                        "SM-G7810",
+                                        "SM-G781B",
+                                        "SM-G781N",
+                                        "SM-G781U",
+                                        "SM-G781U1",
+                                        "SM-G781W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.198",
+                                                "5.10.208"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s23-5.15-oneui-5.1",
+                         "displayName":  "Galaxy S23 family | One UI 5.x (Android 13)",
+                         "models":  [
+                                        "SM-S9110",
+                                        "SM-S911B",
+                                        "SM-S911E",
+                                        "SM-S911N",
+                                        "SM-S911U",
+                                        "SM-S911U1",
+                                        "SM-S911W",
+                                        "SM-S9160",
+                                        "SM-S916B",
+                                        "SM-S916E",
+                                        "SM-S916N",
+                                        "SM-S916U",
+                                        "SM-S916U1",
+                                        "SM-S916W",
+                                        "SM-S9180",
+                                        "SM-S918B",
+                                        "SM-S918E",
+                                        "SM-S918N",
+                                        "SM-S918Q",
+                                        "SM-S918U",
+                                        "SM-S918U1",
+                                        "SM-S918W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.153",
+                                                "5.15.189"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s23-5.15-oneui-6.1",
+                         "displayName":  "Galaxy S23 family | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-S9110",
+                                        "SM-S911B",
+                                        "SM-S911E",
+                                        "SM-S911N",
+                                        "SM-S911U",
+                                        "SM-S911U1",
+                                        "SM-S911W",
+                                        "SM-S9160",
+                                        "SM-S916B",
+                                        "SM-S916E",
+                                        "SM-S916N",
+                                        "SM-S916U",
+                                        "SM-S916U1",
+                                        "SM-S916W",
+                                        "SM-S9180",
+                                        "SM-S918B",
+                                        "SM-S918E",
+                                        "SM-S918N",
+                                        "SM-S918Q",
+                                        "SM-S918U",
+                                        "SM-S918U1",
+                                        "SM-S918W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.209",
+                                                "5.15.231"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s23-5.15-a15-2026",
+                         "displayName":  "Galaxy S23 family | Android 15 update line (2026)",
+                         "models":  [
+                                        "SM-S9110",
+                                        "SM-S911B",
+                                        "SM-S911E",
+                                        "SM-S911N",
+                                        "SM-S911U",
+                                        "SM-S911U1",
+                                        "SM-S911W",
+                                        "SM-S9160",
+                                        "SM-S916B",
+                                        "SM-S916E",
+                                        "SM-S916N",
+                                        "SM-S916U",
+                                        "SM-S916U1",
+                                        "SM-S916W",
+                                        "SM-S9180",
+                                        "SM-S918B",
+                                        "SM-S918E",
+                                        "SM-S918N",
+                                        "SM-S918Q",
+                                        "SM-S918U",
+                                        "SM-S918U1",
+                                        "SM-S918W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.244",
+                                                "5.15.248"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s23fe-5.15-oneui-5.1",
+                         "displayName":  "Galaxy S23 FE | One UI 5.1 (Android 13)",
+                         "models":  [
+                                        "SM-S7110",
+                                        "SM-S711B",
+                                        "SM-S711E",
+                                        "SM-S711N",
+                                        "SM-S711U",
+                                        "SM-S711U1",
+                                        "SM-S711W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.153"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s23fe-5.15-oneui-6.1",
+                         "displayName":  "Galaxy S23 FE | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-S7110",
+                                        "SM-S711B",
+                                        "SM-S711E",
+                                        "SM-S711N",
+                                        "SM-S711U",
+                                        "SM-S711U1",
+                                        "SM-S711W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.209"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "z5-5.15-oneui-5.1",
+                         "displayName":  "Galaxy Z Fold 5 family | One UI 5.x (Android 13)",
+                         "models":  [
+                                        "SM-F9460",
+                                        "SM-F946B",
+                                        "SM-F946N",
+                                        "SM-F946U",
+                                        "SM-F946U1",
+                                        "SM-F946W",
+                                        "SM-F7310",
+                                        "SM-F731B",
+                                        "SM-F731N",
+                                        "SM-F731U",
+                                        "SM-F731U1",
+                                        "SM-F731W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.189"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "z6-6.6-oneui-6.1",
+                         "displayName":  "Galaxy Z Fold 6 / Flip 6 | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-F9560",
+                                        "SM-F956B",
+                                        "SM-F956N",
+                                        "SM-F956S",
+                                        "SM-F956U",
+                                        "SM-F956U1",
+                                        "SM-F956W",
+                                        "SM-F7410",
+                                        "SM-F741B",
+                                        "SM-F741N",
+                                        "SM-F741S",
+                                        "SM-F741U",
+                                        "SM-F741U1",
+                                        "SM-F741W"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.6.46",
+                                                "6.6.102"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "ts8-5.10-oneui-4.1",
+                         "displayName":  "Galaxy Tab S8 family | One UI 4.x (Android 12)",
+                         "models":  [
+                                        "SM-X700",
+                                        "SM-X700N",
+                                        "SM-X706B",
+                                        "SM-X706N",
+                                        "SM-X800",
+                                        "SM-X800N",
+                                        "SM-X806B",
+                                        "SM-X806N",
+                                        "SM-X900",
+                                        "SM-X900N",
+                                        "SM-X906B",
+                                        "SM-X906N"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.66",
+                                                "5.10.81",
+                                                "5.10.110"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "ts8-5.10-oneui-5.1",
+                         "displayName":  "Galaxy Tab S8 family | One UI 5.x (Android 13)",
+                         "models":  [
+                                        "SM-X700",
+                                        "SM-X700N",
+                                        "SM-X706B",
+                                        "SM-X706N",
+                                        "SM-X800",
+                                        "SM-X800N",
+                                        "SM-X806B",
+                                        "SM-X806N",
+                                        "SM-X900",
+                                        "SM-X900N",
+                                        "SM-X906B",
+                                        "SM-X906N"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.125",
+                                                "5.10.142"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "ts8-5.10-oneui-6.1",
+                         "displayName":  "Galaxy Tab S8 family | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-X700",
+                                        "SM-X700N",
+                                        "SM-X706B",
+                                        "SM-X706N",
+                                        "SM-X800",
+                                        "SM-X800N",
+                                        "SM-X806B",
+                                        "SM-X806N",
+                                        "SM-X900",
+                                        "SM-X900N",
+                                        "SM-X906B",
+                                        "SM-X906N"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.198",
+                                                "5.10.208"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "ts9-5.15-oneui-5.1",
+                         "displayName":  "Galaxy Tab S9 family | One UI 5.x (Android 13)",
+                         "models":  [
+                                        "SM-X710",
+                                        "SM-X7100",
+                                        "SM-X710N",
+                                        "SM-X716B",
+                                        "SM-X716N",
+                                        "SM-X716U",
+                                        "SM-X810",
+                                        "SM-X8100",
+                                        "SM-X810N",
+                                        "SM-X816B",
+                                        "SM-X816N",
+                                        "SM-X816U",
+                                        "SM-X910",
+                                        "SM-X9100",
+                                        "SM-X910N",
+                                        "SM-X916B",
+                                        "SM-X916N",
+                                        "SM-X916U",
+                                        "SM-X916W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.188",
+                                                "5.15.189"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "ts9-5.15-oneui-6.1",
+                         "displayName":  "Galaxy Tab S9 family | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-X710",
+                                        "SM-X7100",
+                                        "SM-X710N",
+                                        "SM-X716B",
+                                        "SM-X716N",
+                                        "SM-X716U",
+                                        "SM-X810",
+                                        "SM-X8100",
+                                        "SM-X810N",
+                                        "SM-X816B",
+                                        "SM-X816N",
+                                        "SM-X816U",
+                                        "SM-X910",
+                                        "SM-X9100",
+                                        "SM-X910N",
+                                        "SM-X916B",
+                                        "SM-X916N",
+                                        "SM-X916U",
+                                        "SM-X916W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.209"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "ts9fe-5.15-oneui-6.1",
+                         "displayName":  "Galaxy Tab S9 FE family | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-X510",
+                                        "SM-X510N",
+                                        "SM-X516B",
+                                        "SM-X516U",
+                                        "SM-X610",
+                                        "SM-X616B"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.209"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "ts10-6.1-oneui-6.1",
+                         "displayName":  "Galaxy Tab S10 family | One UI 6.x (Android 14)",
+                         "models":  [
+                                        "SM-X820",
+                                        "SM-X820N",
+                                        "SM-X826B",
+                                        "SM-X826U",
+                                        "SM-X920",
+                                        "SM-X920N",
+                                        "SM-X926B",
+                                        "SM-X926U"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.62"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "a52s-5.10-oneui-6.1",
+                         "displayName":  "Galaxy A52s 5G | One UI 6.x (Android 14)",
+                         "models":  [
+                                        "SM-A528B"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.226",
+                                                "5.10.237"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "a54-5.15-oneui-5.1",
+                         "displayName":  "Galaxy A54 5G | One UI 5.x (Android 13)",
+                         "models":  [
+                                        "SM-A5460",
+                                        "SM-A546B",
+                                        "SM-A546E",
+                                        "SM-A546N",
+                                        "SM-A546S",
+                                        "SM-A546U1",
+                                        "SM-A546W",
+                                        "SM-A546V"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.199"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "a54-5.15-oneui-6.1",
+                         "displayName":  "Galaxy A54 5G | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-A5460",
+                                        "SM-A546B",
+                                        "SM-A546E",
+                                        "SM-A546N",
+                                        "SM-A546S",
+                                        "SM-A546U1",
+                                        "SM-A546W",
+                                        "SM-A546V"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.209"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "a55-5.15-oneui-6.0",
+                         "displayName":  "Galaxy A55 5G | One UI 6.0 (Android 14)",
+                         "models":  [
+                                        "SM-A5560",
+                                        "SM-A556B",
+                                        "SM-A556E",
+                                        "SM-A556N",
+                                        "SM-A556S",
+                                        "SM-A556U1",
+                                        "SM-A556W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.199"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "a55-5.15-oneui-6.1",
+                         "displayName":  "Galaxy A55 5G | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-A5560",
+                                        "SM-A556B",
+                                        "SM-A556E",
+                                        "SM-A556N",
+                                        "SM-A556S",
+                                        "SM-A556U1",
+                                        "SM-A556W"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.209"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "m54-5.15-oneui-6.0",
+                         "displayName":  "Galaxy M54 5G | One UI 6.x (Android 14)",
+                         "models":  [
+                                        "SM-M546B",
+                                        "SM-M546F"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.199",
+                                                "5.15.209"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "m55-5.15-oneui-6.0",
+                         "displayName":  "Galaxy M55 5G | One UI 6.x (Android 14)",
+                         "models":  [
+                                        "SM-M556B",
+                                        "SM-M556F"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.15.199",
+                                                "5.15.209"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "m53-5.10-oneui-5.1",
+                         "displayName":  "Galaxy M53 5G | One UI 5.x (Android 13)",
+                         "models":  [
+                                        "SM-M536B"
+                                    ],
+                         "kernelVersions":  [
+                                                "5.10.237"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s24-models-6.1-oneui-6.1",
+                         "displayName":  "Galaxy S24 series | One UI 6.1 (Android 14)",
+                         "models":  [
+                                        "SM-S921U",
+                                        "SM-S921U1",
+                                        "SM-S921W",
+                                        "SM-S9210",
+                                        "SM-S921E",
+                                        "SM-S926U",
+                                        "SM-S926U1",
+                                        "SM-S926W",
+                                        "SM-S9260",
+                                        "SM-S926N",
+                                        "SM-S926E",
+                                        "SM-S928U",
+                                        "SM-S928N",
+                                        "SM-S928E"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.145",
+                                                "6.1.157"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     },
+                     {
+                         "payloadId":  "s24-models-6.1-a15-2026",
+                         "displayName":  "Galaxy S24 series | Android 15 update line (2026)",
+                         "models":  [
+                                        "SM-S921U",
+                                        "SM-S921U1",
+                                        "SM-S921W",
+                                        "SM-S9210",
+                                        "SM-S921E",
+                                        "SM-S926U",
+                                        "SM-S926U1",
+                                        "SM-S926W",
+                                        "SM-S9260",
+                                        "SM-S926N",
+                                        "SM-S926E",
+                                        "SM-S928U",
+                                        "SM-S928N",
+                                        "SM-S928E"
+                                    ],
+                         "kernelVersions":  [
+                                                "6.1.171"
+                                            ],
+                         "status":  "draft",
+                         "exploit":  {
+                                         "url":  "",
+                                         "size":  0,
+                                         "sha256":  ""
+                                     },
+                         "kernelsu":  {
+                                          "url":  "",
+                                          "size":  0,
+                                          "sha256":  ""
+                                      }
+                     }
+                 ]
+}
