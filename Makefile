@@ -24,11 +24,15 @@ endif
 
 TARGET_HEADER := src/targets/$(TARGET)/target.h
 TARGET_INCLUDE := targets/$(TARGET)/target.h
+ifeq ($(OS),Windows_NT)
+TARGET_CC := $(ANDROID_NDK_HOME)/toolchains/llvm/prebuilt/windows-x86_64/bin/aarch64-linux-android$(API)-clang.cmd
+else
 UNAME_S := $(shell uname -s)
 ifeq ($(UNAME_S),Darwin)
 TARGET_CC := $(ANDROID_NDK_HOME)/toolchains/llvm/prebuilt/darwin-x86_64/bin/aarch64-linux-android$(API)-clang
 else
 TARGET_CC := $(ANDROID_NDK_HOME)/toolchains/llvm/prebuilt/linux-x86_64/bin/aarch64-linux-android$(API)-clang
+endif
 endif
 
 ifeq ($(wildcard $(TARGET_CC)),)
@@ -91,7 +95,7 @@ release: $(APP_RELEASE)
 stable: $(APP_STABLE)
 
 $(OUTDIR):
-	mkdir -p $@
+	@if not exist "$@" mkdir "$@"
 
 $(PRELOAD): $(PRELOAD_SRCS) $(TARGET_HEADER) src/offset.h src/common.h src/kernelsnitch/*.h | $(OUTDIR)
 	$(TARGET_CC) -fPIC $(COMMON_CFLAGS) $(PRELOAD_SRCS) \
@@ -113,8 +117,8 @@ $(APP_RELEASE): $(APP_PRELOAD_SRCS) $(TARGET_HEADER) src/offset.h src/common.h s
 	  $(TARGET_CFLAGS) \
 	  $(APP_PRELOAD_SRCS) -shared -pthread \
 	  $(APP_RELEASE_LINK_FLAGS) -o $@
-	@test $$(stat -c %s $@) -le $(APP_RELEASE_SIZE)
-	truncate -s $(APP_RELEASE_SIZE) $@
+	@powershell -NoProfile -ExecutionPolicy Bypass -Command "$s=(Get-Item -LiteralPath '$@').Length; if ($s -gt $(APP_RELEASE_SIZE)) { Write-Error \"too large: $s > $(APP_RELEASE_SIZE)\"; exit 1 }"
+	@powershell -NoProfile -ExecutionPolicy Bypass -Command "$s=(Get-Item -LiteralPath '$@').Length; if ($s -lt $(APP_RELEASE_SIZE)) { $buf = [byte[]]::new($(APP_RELEASE_SIZE)-$s); $fs=[System.IO.File]::Open('$@',[System.IO.FileMode]::Open,[System.IO.FileAccess]::Write,[System.IO.FileShare]::Read); $fs.Seek(0,[System.IO.SeekOrigin]::End); $fs.Write($buf,0,$buf.Length); $fs.Flush(); $fs.Close() }"
 
 $(APP_STABLE): $(APP_PRELOAD_SRCS) $(TARGET_HEADER) src/offset.h src/common.h src/kernelsnitch/*.h | $(OUTDIR)
 	$(TARGET_CC) -DAPP_PAYLOAD=1 -DAPP_S928_STABLE_RACE=1 \
@@ -126,8 +130,8 @@ $(APP_STABLE): $(APP_PRELOAD_SRCS) $(TARGET_HEADER) src/offset.h src/common.h sr
 	  -Isrc -DTARGET_HEADER='"$(TARGET_INCLUDE)"' \
 	  $(APP_PRELOAD_SRCS) -shared -pthread \
 	  -Wl,--gc-sections -Wl,--icf=all -s -o $@
-	@test $$(stat -c %s $@) -le $(APP_RELEASE_SIZE)
-	truncate -s $(APP_RELEASE_SIZE) $@
+	@powershell -NoProfile -ExecutionPolicy Bypass -Command "$s=(Get-Item -LiteralPath '$@').Length; if ($s -gt $(APP_RELEASE_SIZE)) { Write-Error \"too large: $s > $(APP_RELEASE_SIZE)\"; exit 1 }"
+	@powershell -NoProfile -ExecutionPolicy Bypass -Command "$s=(Get-Item -LiteralPath '$@').Length; if ($s -lt $(APP_RELEASE_SIZE)) { $buf = [byte[]]::new($(APP_RELEASE_SIZE)-$s); $fs=[System.IO.File]::Open('$@',[System.IO.FileMode]::Open,[System.IO.FileAccess]::Write,[System.IO.FileShare]::Read); $fs.Seek(0,[System.IO.SeekOrigin]::End); $fs.Write($buf,0,$buf.Length); $fs.Flush(); $fs.Close() }"
 
 info:
 	@echo "TARGET=$(TARGET)"
@@ -140,4 +144,4 @@ info:
 	@echo "ROOT_HELPER=$(ROOT_HELPER)"
 
 clean:
-	rm -rf $(OUTDIR)
+	@if exist "$(OUTDIR)" rmdir /s /q "$(OUTDIR)"
